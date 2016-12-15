@@ -2,7 +2,6 @@
 
 Forecast stocks with ARIMA model using [spark-timeseries 0.3.0](https://github.com/sryza/spark-timeseries)
 <br>
-Read .csv files using [spark-csv](spark-csv)
 
 #### Prerequisite
 * Java JDK 6+
